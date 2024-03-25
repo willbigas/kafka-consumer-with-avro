@@ -1,0 +1,23 @@
+{
+  "name": "UserAvro",
+  "type": "record",
+  "namespace": "br.com.willbigas.avro",
+  "fields": [
+    {
+      "name": "name",
+      "type": "string"
+    },
+    {
+      "name": "documentNumber",
+      "type": "string"
+    },
+    {
+      "name": "age",
+      "type": "int"
+    },
+    {
+      "name": "phone",
+      "type": "string"
+    }
+  ]
+}
